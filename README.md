@@ -31,7 +31,7 @@ App implementada con Streamlit para la detección de objetos a través de modelo
 #### DETECCIÓN DE OBJETOS CON YOLOv3
 Descargue el archivo de pesos YOLO v3 previamente entrenado desde este [enlace](https://drive.google.com/file/d/1RoP4rVJo8f2ERZNaTRF_A3hwOUHt3ODd/view?usp=sharing) y colócalo en el directorio descargado.
 
-Ejecutamos la aplicación `app.py` a través del siguiente comando:
+Ejecutamos la aplicación `YOLOv3_app.py` a través del siguiente comando:
 
 `streamlit run YOLOv3_app.py`
 
