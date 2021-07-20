@@ -35,6 +35,6 @@ Ejecutamos la aplicación `app.py` a través del siguiente comando:
 
 `streamlit run YOLOv3_app.py`
 
-![](https://github.com/carlosjulioph/YOLOv3-Streamlit/blob/main/Im%C3%A1genes_readme/2.png)
+![](https://github.com/visionporcomputador/YOLOv3-Streamlit/blob/main/Im%C3%A1genes_readme/2.png)
 
 ####   
