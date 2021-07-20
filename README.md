@@ -26,7 +26,7 @@ App implementada con Streamlit para la detección de objetos a través de modelo
 
    se abrirá una ventana en nuestro navegador, como se muestra a continuación:
 
-  ![](https://github.com/carlosjulioph/YOLOv3-Streamlit/blob/main/Im%C3%A1genes_readme/1.png)
+  ![](https://github.com/visionporcomputador/YOLOv3-Streamlit/blob/main/Im%C3%A1genes_readme/1.png)
 
 #### DETECCIÓN DE OBJETOS CON YOLOv3
 Descargue el archivo de pesos YOLO v3 previamente entrenado desde este [enlace](https://drive.google.com/file/d/1RoP4rVJo8f2ERZNaTRF_A3hwOUHt3ODd/view?usp=sharing) y colócalo en el directorio descargado.
